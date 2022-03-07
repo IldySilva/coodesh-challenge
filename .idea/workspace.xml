@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1b9e7d6a-bcee-4bee-9c97-5c9a2f670f12" name="Default Changelist" comment="Edit Products Dialog Fixed">
+      <change afterPath="$PROJECT_DIR$/firebase_admin/assets/images/0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firebase_admin/assets/images/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firebase_admin/assets/images/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firebase_admin/assets/images/11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firebase_admin/assets/images/12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firebase_admin/assets/images/13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firebase_admin/assets/images/14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firebase_admin/assets/images/15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firebase_admin/assets/images/16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firebase_admin/assets/images/17.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firebase_admin/assets/images/18.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firebase_admin/assets/images/19.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firebase_admin/assets/images/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firebase_admin/assets/images/20.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firebase_admin/assets/images/21.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firebase_admin/assets/images/22.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firebase_admin/assets/images/23.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firebase_admin/assets/images/24.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firebase_admin/assets/images/25.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firebase_admin/assets/images/26.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firebase_admin/assets/images/27.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firebase_admin/assets/images/28.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firebase_admin/assets/images/29.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firebase_admin/assets/images/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firebase_admin/assets/images/30.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firebase_admin/assets/images/31.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firebase_admin/assets/images/32.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firebase_admin/assets/images/33.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firebase_admin/assets/images/34.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firebase_admin/assets/images/35.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firebase_admin/assets/images/36.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firebase_admin/assets/images/37.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firebase_admin/assets/images/38.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firebase_admin/assets/images/39.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firebase_admin/assets/images/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firebase_admin/assets/images/40.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firebase_admin/assets/images/41.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firebase_admin/assets/images/42.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firebase_admin/assets/images/43.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firebase_admin/assets/images/44.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firebase_admin/assets/images/45.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firebase_admin/assets/images/46.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firebase_admin/assets/images/47.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firebase_admin/assets/images/48.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firebase_admin/assets/images/49.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firebase_admin/assets/images/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firebase_admin/assets/images/50.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firebase_admin/assets/images/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firebase_admin/assets/images/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firebase_admin/assets/images/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firebase_admin/assets/images/9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firebase_admin/assets/images/home.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firebase_admin/firebaseAdmin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firebase_admin/firebasekey.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firebase_admin/products.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[C:\Users\PC\.android\avd\NexuPequeno.avd]" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="25urJD4Yy1qLBdbJZqEQkyNJq7W" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_MARK_IGNORED_FILES_AS_EXCLUDED" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\PC\Documents\coodesh_challenge\assets" />
+      <recent name="C:\Users\PC\Documents\coodesh_challenge" />
+      <recent name="C:\Users\PC\Documents\coodesh_challenge\lib\view\modals_dialogs" />
+      <recent name="C:\Users\PC\Documents\coodesh_challenge\android\app" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\PC\Documents\coodesh_challenge\firebase_admin\assets" />
+      <recent name="C:\Users\PC\Documents\coodesh_challenge\lib\view\widgets" />
+      <recent name="C:\Users\PC\Documents\coodesh_challenge\lib\view\modals_dialogs" />
+      <recent name="C:\Users\PC\Documents\coodesh_challenge\lib\data" />
+      <recent name="C:\Users\PC\Documents\coodesh_challenge\lib\repository\products" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1b9e7d6a-bcee-4bee-9c97-5c9a2f670f12" name="Default Changelist" comment="" />
+      <created>1646387805480</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1646387805480</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Setting HOME UI">
+      <created>1646402540800</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1646402540800</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Setting HOME UI">
+      <created>1646494293523</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1646494293523</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Setting HOME UI">
+      <created>1646497091806</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1646497091806</updated>
+    </task>
+    <task id="LOCAL-00004" summary="set Crud for Products">
+      <created>1646522949273</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1646522949276</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Add Python Firebase Admin">
+      <created>1646524441076</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1646524441077</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Edit Products Dialog Fixed">
+      <created>1646650569394</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1646650569394</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Edit Products Dialog Fixed">
+      <created>1646652044607</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1646652044607</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Edit Products Dialog Fixed">
+      <created>1646653098562</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1646653098562</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Edit Products Dialog Fixed">
+      <created>1646653178782</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1646653178782</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Setting HOME UI" />
+    <MESSAGE value="set Crud for Products" />
+    <MESSAGE value="Add Python Firebase Admin" />
+    <MESSAGE value="Edit Products Dialog Fixed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Edit Products Dialog Fixed" />
+  </component>
+</project>

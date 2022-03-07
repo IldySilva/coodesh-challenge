@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "566096787363",
+    "project_id": "coodesh-68329",
+    "storage_bucket": "coodesh-68329.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:566096787363:android:7bf43facbf690665b44c16",
+        "android_client_info": {
+          "package_name": "ao.coodesh.coodesh_challenge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "566096787363-7jnhoqohc43ok315pbanmihkfohattat.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbSI8fTdXEUpWkaC0NJteln_PwwrxdDhs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "566096787363-7jnhoqohc43ok315pbanmihkfohattat.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
