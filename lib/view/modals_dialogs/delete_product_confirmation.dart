@@ -10,7 +10,6 @@ import '../../model/products_model.dart';
 
 delectProductDialog(context, Product product) {
   return showDialog(
-      barrierDismissible: false,
       context: context,
       builder: (context) {
         return SimpleDialog(
@@ -26,19 +25,24 @@ delectProductDialog(context, Product product) {
             SizedBox(
               height: Get.height * 0.01,
             ),
-            ClipRRect(
-              child:  Obx(()=>viewController.laodingMainButton.value?Center(child:CircularProgressIndicator(color: Colors.red,)): Container(
-                  width: Get.width * 0.8,
-                  decoration: BoxDecoration(color: Colors.red),
-                  child: TextButton(
-                      onPressed: () async {
-                        await IFirebaseServices().deleteProduct(product);
-                        Navigator.pop(context);
-                      },
-                      child: Text(
-                        "Confirmar",
-                        style: TextStyle(color: Colors.white),
-                      )))),
+            Container(
+              height: Get.height*0.07,
+              child: ClipRRect(
+                child:  Obx(()=>viewController.laodingMainButton.value?Center(child:CircularProgressIndicator(color: Colors.red,)): Container(
+                    width: Get.width * 0.8,
+                    decoration: BoxDecoration(color: Colors.red),
+                    child: TextButton(
+                        onPressed: () async {
+                          await IFirebaseServices().deleteProduct(product);
+                          Navigator.pop(context);
+                          await IFirebaseServices().fetchProducts();
+
+                        },
+                        child: Text(
+                          "Confirmar",
+                          style: TextStyle(color: Colors.white),
+                        )))),
+              ),
             )
           ],
         );

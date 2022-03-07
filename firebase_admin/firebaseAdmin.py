@@ -5,8 +5,9 @@ import firebase_admin
 import json
 
 import os
-from firebase_admin import firestore    
-cred = credentials.Certificate('firebasekey.json')
+from firebase_admin import firestore
+cred = credentials.Certificate('./firebase_Admin/firebasekey.json')
+
 firebase_admin.initialize_app(cred, {'storageBucket': 'coodesh-68329.appspot.com'})
 db = firestore.client()
 productsCollection=db.collection("products")
@@ -15,7 +16,7 @@ bucket = storage.bucket()
 
 def addJsonToFirebase():
     print("Adicionando Json ao Firebase")
-    with open('products.json', 'r') as f:
+    with open('./firebase_admin/products.json', 'r') as f:
         data = json.load(f)
         for c in data:
             c["upload_date"]=datetime.now().isoformat()
@@ -33,7 +34,6 @@ def uploadFotos():
         blob.upload_from_filename("assets/images/"+c)
     print("conluido")
     
-    None
 def addLinksToDocs():
     print("actualizando link nos documentos")
     for c in range(50):
@@ -47,5 +47,5 @@ def addLinksToDocs():
 
 
 addJsonToFirebase()
-uploadFotos()
+##uploadFotos()
 addLinksToDocs()

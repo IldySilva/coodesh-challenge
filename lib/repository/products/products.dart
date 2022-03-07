@@ -9,10 +9,13 @@ class IFirebaseServices{
 
   dynamic fetchProducts()=> FirebaseServices().fetchProducts();
 
+
   dynamic deleteProduct(Product product) async {
     if(UIHelpers().checkEmptyDField(product.id))
       return  await FirebaseServices().deleteProduct(product.id);
   }
+
+
   dynamic editProducts(Product product) async {
 
     if(UIHelpers().validateFields(product.title!, product.price.toString(), product.type!)) await FirebaseServices().editProduct(product);

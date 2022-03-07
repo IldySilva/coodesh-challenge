@@ -135,31 +135,35 @@ editProductDialog(context, Product product) {
             SizedBox(
               height: Get.height * 0.01,
             ),
-            ClipRRect(
-              child: Obx(() => viewController.laodingMainButton.value
-                  ? Center(
-                      child: CircularProgressIndicator(
-                      color: Colors.black,
-                    ))
-                  : Container(
-                      width: Get.width * 0.8,
-                      decoration: BoxDecoration(color: Colors.black),
-                      child: TextButton(
-                          onPressed: () async {
-                            product.title=titleController.text;
-                            product.description=descriptionController.text;
-                            product.type=typeController.text;
-                            product.price=double.parse(priceController.text);
-                            product.height=int.parse(heightController.text);
-                            product.width=int.parse(widthtController.text);
-                            product.rating=int.parse(ratingController.text);
-                            await IFirebaseServices().editProducts(product);
-                            Navigator.pop(context);
-                          },
-                          child: Text(
-                            "Salvar",
-                            style: TextStyle(color: Colors.white),
-                          )))),
+            Container(
+              height: Get.height*0.07,
+              child: ClipRRect(
+
+                child: Obx(() => viewController.laodingMainButton.value
+                    ? Center(
+                        child: CircularProgressIndicator(
+                        color: Colors.black,
+                      ))
+                    : Container(
+                        width: Get.width * 0.8,
+                        decoration: BoxDecoration(color: Colors.black),
+                        child: TextButton(
+                            onPressed: () async {
+                              product.title=titleController.text;
+                              product.description=descriptionController.text;
+                              product.type=typeController.text;
+                              product.price=double.parse(priceController.text);
+                              product.height=int.parse(heightController.text);
+                              product.width=int.parse(widthtController.text);
+                              product.rating=int.parse(ratingController.text);
+                              await IFirebaseServices().editProducts(product);
+                              Navigator.pop(context);
+                            },
+                            child: Text(
+                              "Salvar",
+                              style: TextStyle(color: Colors.white),
+                            )))),
+              ),
             )
           ],
         );
