@@ -97,7 +97,7 @@ editProductDialog(context, Product product) {
                         width: Get.width * 0.2,
                         child: TextField(
                           maxLength: 1,
-                          inputFormatters: [  FilteringTextInputFormatter.allow(RegExp('[1-5]')),],
+                          inputFormatters: [  FilteringTextInputFormatter.allow(RegExp('[0-5]')),],
                           keyboardType: TextInputType.numberWithOptions(),
                           controller: ratingController,
                           decoration: InputDecoration(
@@ -157,7 +157,6 @@ editProductDialog(context, Product product) {
                               product.width=int.parse(widthtController.text);
                               product.rating=int.parse(ratingController.text);
                               await IFirebaseServices().editProducts(product);
-                              Navigator.pop(context);
                             },
                             child: Text(
                               "Salvar",

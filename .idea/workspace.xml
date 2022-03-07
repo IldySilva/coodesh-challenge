@@ -6,13 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="1b9e7d6a-bcee-4bee-9c97-5c9a2f670f12" name="Default Changelist" comment="Add README">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/firebase_admin/firebaseAdmin.py" beforeDir="false" afterPath="$PROJECT_DIR$/firebase_admin/firebaseAdmin.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lib/data/firebase/firebase_services.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/data/firebase/firebase_services.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/repository/products/products.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/repository/products/products.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/utils/Ui_helpers.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/utils/Ui_helpers.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/utils/widgets.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/view/modals_dialogs/delete_product_confirmation.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/view/modals_dialogs/delete_product_confirmation.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lib/view/modals_dialogs/edit_product_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/view/modals_dialogs/edit_product_screen.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />

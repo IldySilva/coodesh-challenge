@@ -2,6 +2,8 @@ import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:coodesh_challenge/model/products_model.dart';
 import 'package:coodesh_challenge/view/modals_dialogs/responses.dart';
 import 'package:coodesh_challenge/view/state_manager.dart';
+import 'package:flutter/material.dart';
+import 'package:get/get.dart';
 
 class FirebaseServices {
   var _firestoreCollection = FirebaseFirestore.instance.collection("products");
@@ -35,11 +37,13 @@ class FirebaseServices {
     }
   }
 
-  dynamic editProduct(Product product) async {
+  dynamic editProduct(Product product,) async {
     try {
       viewController.laodingMainButton.value = true;
       await _firestoreCollection.doc(product.id).update(product.toJson());
+      Navigator.pop(Get.context!);
       await fetchProducts();
+
       viewController.laodingMainButton.value = false;
     } on Exception catch (e) {
       viewController.laodingMainButton.value = false;
