@@ -10,7 +10,13 @@ ver detalhes dos produtos e remover da base de dados
 
 #### Screenshot da UI
 
-![<img src="assets/UI.png" height="500" alt="UI" title="UI"/>](/assets/images/UI.png)
+![<img src="assets/UI.png" height="500" alt="UI" title="UI"/>](assets/images/UI.png)
+<<<<<<< HEAD
+=======
+
+
+#### Rodar Projeto
+>>>>>>> 0b5971d83ec0712ae39da4101902da504c6813f3
 
 
 #### Rodar Projeto

@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1b9e7d6a-bcee-4bee-9c97-5c9a2f670f12" name="Default Changelist" comment="Edit Products Dialog Fixed">
+    <list default="true" id="1b9e7d6a-bcee-4bee-9c97-5c9a2f670f12" name="Default Changelist" comment="Add README.md">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -150,7 +150,14 @@
       <option name="project" value="LOCAL" />
       <updated>1646653178782</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Add README.md">
+      <created>1646661432717</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1646661432717</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -171,6 +178,7 @@
     <MESSAGE value="set Crud for Products" />
     <MESSAGE value="Add Python Firebase Admin" />
     <MESSAGE value="Edit Products Dialog Fixed" />
-    <option name="LAST_COMMIT_MESSAGE" value="Edit Products Dialog Fixed" />
+    <MESSAGE value="Add README.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add README.md" />
   </component>
 </project>
