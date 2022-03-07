@@ -14,7 +14,7 @@ ao rodar este programa todos os dados serão enviados para a base de dados
 
 #### Screenshot da UI
 
-![<img src="assets/UI.png" height="500" alt="UI" title="UI"/>](firebase_admin/assets/images/UI.png)
+![<img src="assets/UI.png" height="500" alt="UI" title="UI"/>](/assets/images/UI.png)
 
  
 #### Rodar Projeto
