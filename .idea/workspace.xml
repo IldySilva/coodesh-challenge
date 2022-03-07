@@ -5,62 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1b9e7d6a-bcee-4bee-9c97-5c9a2f670f12" name="Default Changelist" comment="Edit Products Dialog Fixed">
-      <change afterPath="$PROJECT_DIR$/firebase_admin/assets/images/0.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/firebase_admin/assets/images/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/firebase_admin/assets/images/10.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/firebase_admin/assets/images/11.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/firebase_admin/assets/images/12.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/firebase_admin/assets/images/13.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/firebase_admin/assets/images/14.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/firebase_admin/assets/images/15.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/firebase_admin/assets/images/16.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/firebase_admin/assets/images/17.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/firebase_admin/assets/images/18.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/firebase_admin/assets/images/19.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/firebase_admin/assets/images/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/firebase_admin/assets/images/20.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/firebase_admin/assets/images/21.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/firebase_admin/assets/images/22.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/firebase_admin/assets/images/23.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/firebase_admin/assets/images/24.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/firebase_admin/assets/images/25.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/firebase_admin/assets/images/26.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/firebase_admin/assets/images/27.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/firebase_admin/assets/images/28.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/firebase_admin/assets/images/29.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/firebase_admin/assets/images/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/firebase_admin/assets/images/30.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/firebase_admin/assets/images/31.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/firebase_admin/assets/images/32.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/firebase_admin/assets/images/33.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/firebase_admin/assets/images/34.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/firebase_admin/assets/images/35.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/firebase_admin/assets/images/36.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/firebase_admin/assets/images/37.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/firebase_admin/assets/images/38.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/firebase_admin/assets/images/39.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/firebase_admin/assets/images/4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/firebase_admin/assets/images/40.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/firebase_admin/assets/images/41.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/firebase_admin/assets/images/42.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/firebase_admin/assets/images/43.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/firebase_admin/assets/images/44.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/firebase_admin/assets/images/45.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/firebase_admin/assets/images/46.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/firebase_admin/assets/images/47.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/firebase_admin/assets/images/48.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/firebase_admin/assets/images/49.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/firebase_admin/assets/images/5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/firebase_admin/assets/images/50.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/firebase_admin/assets/images/6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/firebase_admin/assets/images/7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/firebase_admin/assets/images/8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/firebase_admin/assets/images/9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/firebase_admin/assets/images/home.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/firebase_admin/firebaseAdmin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/firebase_admin/firebasekey.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/firebase_admin/products.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,7 +53,7 @@
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
     <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="io.flutter.reload.alreadyRun" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Ildeberto SIlva/Infinity/FreeLa" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
