@@ -7,15 +7,6 @@ O Aplicativo permite listar os produtos previamente adicionados umaa base de dad
 ,assim como alterar dados,
 ver detalhes dos produtos e remover da base de dados
 
-
-#### Screenshot da UI
-
-![<img src="assets/UI.png" height="500" alt="UI" title="UI"/>](assets/images/UI.png)
-
-=======
-
-
-
 #### Rodar Projeto
 Só pegue as dependencias do projecto com um 'flutter pub get'
 
